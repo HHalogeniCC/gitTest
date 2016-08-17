@@ -1,2 +1,3 @@
 # gitTest
-test for commiting to git
+test for commiting to github
+
